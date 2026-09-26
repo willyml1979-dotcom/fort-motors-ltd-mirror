@@ -1,7 +1,7 @@
 {
   "dealership": "Fort Motors Ltd",
-  "generated_at": "2026-09-26T06:26:43",
-  "vehicle_count": 164,
+  "generated_at": "2026-09-26T06:32:34",
+  "vehicle_count": 139,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -663,7 +663,7 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/7595d0970cab.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco-sport/14472088",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco-sport/14472088?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:28:09",
+      "last_verified": "2026-09-26T06:31:06",
       "price": 45020.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -683,19 +683,6 @@
     },
     {
       "name": "2026FordBronco Sport",
-      "vin": "3FMCR9CN2TRE96031",
-      "stock": "96031Y",
-      "color": "Carbonized Grey Metallic",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/2506612705a9.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco-sport/14515177",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco-sport/14515177?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:28:23",
-      "price": 49285.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordBronco Sport",
       "vin": "3FMCR9DA2TRE97949",
       "stock": "97949Y",
       "color": "Oxford White",
@@ -708,19 +695,6 @@
       "condition": "new"
     },
     {
-      "name": "2026FordBronco Sport",
-      "vin": "3FMCR9CN6TRE95917",
-      "stock": "95917Y",
-      "color": "Velocity Blue Metallic",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/cefb1810caca.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco-sport/14628339",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco-sport/14628339?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:28:34",
-      "price": 49285.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
       "name": "2026FordBronco",
       "vin": "1FMEE0BP9TLA43221",
       "stock": "43221Y",
@@ -728,21 +702,8 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/b4e0c13f29b4.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco/14062296",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco/14062296?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:28:47",
+      "last_verified": "2026-09-26T06:31:20",
       "price": 97425.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordBronco",
-      "vin": "1FMEE7BH8TLB19531",
-      "stock": "19531Y",
-      "color": "Marsh Grey",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/53ba7530e497.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco/14253371",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco/14253371?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:28:59",
-      "price": 77430.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -754,7 +715,7 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/a0b8535c755b.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco/14253386",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco/14253386?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:29:09",
+      "last_verified": "2026-09-26T06:31:29",
       "price": 114540.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -767,7 +728,7 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/32b6a4e2ad30.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco/14575209",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-bronco/14575209?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:29:19",
+      "last_verified": "2026-09-26T06:31:44",
       "price": 68735.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -786,6 +747,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FordExplorer",
+      "vin": "1FMUK8KH6TGC07917",
+      "stock": "07917Y",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/f4e0d05f66b6.html",
+      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-explorer/14405599",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-explorer/14405599?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:27:01",
+      "price": 62530.0,
+      "price_currency": "CAD",
+      "odometer_km": 16000,
+      "condition": "new"
+    },
+    {
       "name": "2026FordF-150",
       "vin": "1FTFW3L85TKD55881",
       "stock": "55881Y",
@@ -793,7 +767,7 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/8fb47a58a56b.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/13893870",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/13893870?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:29:31",
+      "last_verified": "2026-09-26T06:31:59",
       "price": 83905.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -806,7 +780,7 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/60bf18df31e7.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/13930515",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/13930515?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:29:46",
+      "last_verified": "2026-09-26T06:32:09",
       "price": 86650.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -832,7 +806,7 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/bcd147add592.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14047260",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14047260?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:29:55",
+      "last_verified": "2026-09-26T06:32:20",
       "price": 85645.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -844,7 +818,7 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/bc0525d4c395.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14062308",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14062308?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:30:04",
+      "last_verified": "2026-09-26T06:32:30",
       "price": 90305.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -859,19 +833,6 @@
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14072115?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:49:18",
       "price": 88715.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordF-150",
-      "vin": "1FTFW5L87TFA78218",
-      "stock": "78218Y",
-      "color": "Oxford White",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/5611b41f6686.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14112124",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14112124?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:30:15",
-      "price": 89705.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -942,6 +903,19 @@
     },
     {
       "name": "2026FordF-150",
+      "vin": "1FTFW5L8XTFA93988",
+      "stock": "93988Y",
+      "color": "Argon Blue Metallic",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/1cd0c6a3433d.html",
+      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14131168",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14131168?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:27:13",
+      "price": 91915.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordF-150",
       "vin": "1FTFW3L81TKE15641",
       "stock": "15641Y",
       "color": "Iconic Silver",
@@ -976,19 +950,6 @@
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14208389?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:30:58",
       "price": 87450.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordF-150",
-      "vin": "1FTFW3L87TKE21508",
-      "stock": "21508Y",
-      "color": "Avalanche",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/5100d17083f3.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14212904",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14212904?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:31:07",
-      "price": 86445.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1304,9 +1265,10 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/676c19f29716.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14770857",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14770857?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:39:07",
+      "last_verified": "2026-09-26T06:29:05",
       "price": 69910.0,
       "price_currency": "CAD",
+      "odometer_km": 16000,
       "condition": "new"
     },
     {
@@ -1343,7 +1305,7 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/88d12f1404f7.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14793105",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14793105?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:39:19",
+      "last_verified": "2026-09-26T06:29:16",
       "price": 81630.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1402,6 +1364,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF-150",
+      "vin": "1FTFW7L89TFC05000",
+      "stock": "05000Y",
+      "color": "Avalanche",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/b70d9aa314ba.html",
+      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14833805",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f-150/14833805?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:27:24",
+      "price": 111300.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FordF150",
       "vin": "1FTFW5L51TFB79843",
       "stock": "79843Y",
@@ -1415,15 +1390,28 @@
       "condition": "new"
     },
     {
+      "name": "2026FordF150",
+      "vin": "1FTFW5L57TFC16877",
+      "stock": "16877Y",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/4b8c449cd042.html",
+      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-f150/14833790",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-f150/14833790?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:27:35",
+      "price": 99345.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FordMaverick",
       "vin": "3FTTW8SA6TRB15920",
       "stock": "15920Y",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/ed1f506c3b7e.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-maverick/14497069",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-maverick/14497069?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:39:31",
+      "last_verified": "2026-09-26T06:30:06",
       "price": 50095.0,
       "price_currency": "CAD",
+      "odometer_km": 16000,
       "condition": "new"
     },
     {
@@ -1434,7 +1422,7 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/25d667823f14.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-maverick/14509108",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-maverick/14509108?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:39:41",
+      "last_verified": "2026-09-26T06:30:17",
       "price": 52695.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1449,19 +1437,6 @@
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-maverick/14526295?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:40:08",
       "price": 44945.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordMaverick",
-      "vin": "3FTTW8J37TRB16058",
-      "stock": "16058Y",
-      "color": "Shadow Black",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/d72af6669466.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-maverick/14799123",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-maverick/14799123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:40:20",
-      "price": 45515.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1519,19 +1494,6 @@
     },
     {
       "name": "2026FordRanger",
-      "vin": "1FTER4LR6TLE44502",
-      "stock": "44502Y",
-      "color": "Shelter Green Metallic",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/e9c5a446ec1a.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-ranger/14656818",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-ranger/14656818?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:39:54",
-      "price": 87365.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordRanger",
       "vin": "1FTER4KP1TLE38364",
       "stock": "38364Y",
       "color": "Velocity Blue Metallic",
@@ -1564,8 +1526,21 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/36962a0a3245.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-drw/14222600",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-drw/14222600?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:40:07",
+      "last_verified": "2026-09-26T06:30:30",
       "price": 87840.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordSUPER DUTY F-350 SRW",
+      "vin": "1FT8W3BM3TEE02203",
+      "stock": "02203Y",
+      "color": "Oxford White",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/54c526226d01.html",
+      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-srw/14141986",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-srw/14141986?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:27:50",
+      "price": 114054.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1578,6 +1553,19 @@
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-srw/14245814?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:41:53",
       "price": 122093.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FordSUPER DUTY F-350 SRW",
+      "vin": "1FT8W3BT0TEF37906",
+      "stock": "37906Y",
+      "color": "Oxford White",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/0d49ba9d7678.html",
+      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-srw/14558154",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-srw/14558154?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:28:00",
+      "price": 98615.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1615,21 +1603,8 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/884e13da4381.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-srw/14799141",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-srw/14799141?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:40:20",
+      "last_verified": "2026-09-26T06:30:40",
       "price": 88354.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FordSUPER DUTY F-350 SRW",
-      "vin": "1FT8W3BT0TED79566",
-      "stock": "79566Y",
-      "color": "Star White Metallic Tri-Coat",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/ee3cce129d5e.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-srw/14817545",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-350-srw/14817545?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:42:27",
-      "price": 126674.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1693,7 +1668,7 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/98b875da2e8a.html",
       "source_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-550-drw/14600886",
       "dealer_url": "https://www.fortmotors.ca/inventory/2026-ford-super-duty-f-550-drw/14600886?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:40:33",
+      "last_verified": "2026-09-26T06:30:52",
       "price": 104985.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1709,236 +1684,6 @@
       "last_verified": "2026-09-25T04:43:22",
       "price": 219615.0,
       "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR11'4X97DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB1419V1119763",
-      "stock": "119763",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/22083fb4dcad.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-114x97diam-plate-steel-flat-deck-truck-bed-wgn/14822936",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-114x97diam-plate-steel-flat-deck-truck-bed-wgn/14822936?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:43:32",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR11'4X97DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB1112V1120507",
-      "stock": "120507",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/34bf6cd83096.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-114x97diam-plate-steel-flat-deck-truck-bed-wgn/14822954",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-114x97diam-plate-steel-flat-deck-truck-bed-wgn/14822954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:40:42",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR11'4X97DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB1114V1120508",
-      "stock": "120508",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/a939a16af5e4.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-114x97diam-plate-steel-flat-deck-truck-bed-wgn/14822957",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-114x97diam-plate-steel-flat-deck-truck-bed-wgn/14822957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:40:52",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR11'4X97DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB1419V1119762",
-      "stock": "119762",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/70097aa87c40.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-114x97diam-plate-steel-flat-deck-truck-bed-wgn/14822963",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-114x97diam-plate-steel-flat-deck-truck-bed-wgn/14822963?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:43:42",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8615V1119322",
-      "stock": "119322",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/bc94db306cba.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817533",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817533?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:43:53",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "50HSB8619V1917214",
-      "stock": "917214",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/489199b6f9e3.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817542",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:41:02",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8615V1119093",
-      "stock": "119093",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/903d3227bf2c.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817548",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817548?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:44:02",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8611V1119186",
-      "stock": "119186",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/172c71e33d71.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817554",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817554?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:44:12",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "50HSB861XT1915825",
-      "stock": "915825",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/00efb972a69a.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817563",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817563?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:44:23",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8615V1119644",
-      "stock": "119644",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/b4ac725dd91f.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817566",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817566?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:44:32",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "50HSB861XV1918260",
-      "stock": "918260",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/5c2bd0518408.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817569",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817569?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:44:41",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8617V1119645",
-      "stock": "119645",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/6f14b3ced9ac.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817572",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817572?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:41:14",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8619V1119646",
-      "stock": "119646",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/38705c060fdc.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817575",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817575?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:44:51",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8615V1120275",
-      "stock": "120275",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/a4024362f79d.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817578",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817578?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:45:02",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8610V1119647",
-      "stock": "119647",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/0f18a10b669a.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817593",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817593?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:45:13",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8615V1119188",
-      "stock": "119188",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/e9587d46cbbb.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817596",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817596?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:45:22",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB861XV1120272",
-      "stock": "120272",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/e1c2a0862013.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817599",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817599?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:41:24",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8617V1120276",
-      "stock": "120276",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/edde0bd572e6.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817605",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817605?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:41:35",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB861XV1119848",
-      "stock": "119848",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/9395e8f73551.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817608",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817608?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T03:41:46",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X84 DIAM PLATE STEEL FLAT DECK TRUCK BED W/GN",
-      "vin": "3EUSB8619V1119730",
-      "stock": "119730",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/1f59ac2cc70c.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817611",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x84-diam-plate-steel-flat-deck-truck-bed-wgn/14817611?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:45:34",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X97 SKIRTED TRUCK BED",
-      "vin": "3EUSB8615V1119823",
-      "stock": "119823",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/fd7b1ba7464d.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x97-skirted-truck-bed/14817590",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x97-skirted-truck-bed/14817590?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:45:43",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTAR86X97 SKIRTED TRUCK BED",
-      "vin": "3EUSB8610V1118398",
-      "stock": "118398",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/ccf218d9c4f2.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x97-skirted-truck-bed/14817602",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-86x97-skirted-truck-bed/14817602?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:45:55",
-      "condition": "new"
-    },
-    {
-      "name": "2026NORSTARWESTERN HAULER 8'6X88 CTA TRCUK BED",
-      "vin": "50HSB8619T1916108",
-      "stock": "916108",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/d4be47ca374a.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2026-norstar-western-hauler-86x88-cta-trcuk-bed/14822933",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2026-norstar-western-hauler-86x88-cta-trcuk-bed/14822933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:46:07",
       "condition": "new"
     },
     {
@@ -1968,20 +1713,6 @@
       "condition": "new"
     },
     {
-      "name": "2027FordExpedition",
-      "vin": "1FMJU1M86VEA30348",
-      "stock": "30348Z",
-      "color": "Star White Metallic Tri-Coat",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/7ca1cf1ea8fd.html",
-      "source_url": "https://www.fortmotors.ca/inventory/2027-ford-expedition/14799138",
-      "dealer_url": "https://www.fortmotors.ca/inventory/2027-ford-expedition/14799138?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:46:39",
-      "price": 107295.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
-      "condition": "new"
-    },
-    {
       "name": "2027FordExplorer",
       "vin": "1FMWK8GC9VGA33012",
       "stock": "33012Z",
@@ -1992,6 +1723,20 @@
       "last_verified": "2026-09-25T04:46:51",
       "price": 75795.0,
       "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2027FordExplorer",
+      "vin": "1FMUK8JH7VGA07388",
+      "stock": "07388Z",
+      "color": "Agate Black Metallic",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/42a4ead46e69.html",
+      "source_url": "https://www.fortmotors.ca/inventory/2027-ford-explorer/14833772",
+      "dealer_url": "https://www.fortmotors.ca/inventory/2027-ford-explorer/14833772?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T06:28:11",
+      "price": 64565.0,
+      "price_currency": "CAD",
+      "odometer_km": 16000,
       "condition": "new"
     },
     {
