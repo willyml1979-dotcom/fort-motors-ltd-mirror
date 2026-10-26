@@ -1,6 +1,6 @@
 {
   "dealership": "Fort Motors Ltd",
-  "generated_at": "2026-10-25T23:40:26",
+  "generated_at": "2026-10-26T07:59:10",
   "vehicle_count": 131,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -162,7 +162,7 @@
       "vin": "1FA6P8CF0P5304873",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/55bb721a51c9.html",
       "condition": "used",
-      "price": 52995.0,
+      "price": 49992.0,
       "price_currency": "CAD"
     },
     {
