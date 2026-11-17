@@ -1,7 +1,7 @@
 {
   "dealership": "Fort Motors Ltd",
-  "generated_at": "2026-11-17T09:14:14",
-  "vehicle_count": 124,
+  "generated_at": "2026-11-17T09:42:16",
+  "vehicle_count": 117,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -304,22 +304,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025FordBronco",
-      "vin": "1FMEE6BH8SLB32045",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/f02e1a240df0.html",
-      "condition": "new",
-      "price": 59995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordBronco Sport",
-      "vin": "3FMCR9CN9TRE86001",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/7ffcd49dfe69.html",
-      "condition": "new",
-      "price": 49865.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026FordBronco Sport",
       "vin": "3FMCR9DA2TRE97949",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/9a63a2f18864.html",
@@ -337,18 +321,26 @@
     },
     {
       "name": "2026FordBronco Sport",
-      "vin": "3FMCR9BN4TRF42346",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/beaf3a7ae071.html",
-      "condition": "new",
-      "price": 50240.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordBronco Sport",
       "vin": "3FMCR9BN2TRF42233",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/d030619abf93.html",
       "condition": "new",
       "price": 43285.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordBronco Sport",
+      "vin": "3FMCR9BNXTRF41945",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/edd7d63c033e.html",
+      "condition": "new",
+      "price": 46140.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordBronco Sport",
+      "vin": "3FMCR9BN3TRF42435",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/d1fa5b6f4a46.html",
+      "condition": "new",
+      "price": 45690.0,
       "price_currency": "CAD"
     },
     {
@@ -361,26 +353,10 @@
     },
     {
       "name": "2026FordBronco",
-      "vin": "1FMEE0RR7TLB12964",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/a0b8535c755b.html",
-      "condition": "new",
-      "price": 114540.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordBronco",
       "vin": "1FMEE7BHXTLB33611",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/32b6a4e2ad30.html",
       "condition": "new",
       "price": 68735.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordExplorer",
-      "vin": "1FMUK8JH3TGC36678",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/ed5363ec4f6b.html",
-      "condition": "new",
-      "price": 66830.0,
       "price_currency": "CAD"
     },
     {
@@ -429,14 +405,6 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/ed8cd2f8be34.html",
       "condition": "new",
       "price": 82565.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
-      "vin": "1FTFW5L88TFA95206",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/0615f8fb8044.html",
-      "condition": "new",
-      "price": 95824.0,
       "price_currency": "CAD"
     },
     {
@@ -505,26 +473,10 @@
     },
     {
       "name": "2026FordF-150",
-      "vin": "1FTFW3L81TKE09449",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/c3eb4412247e.html",
-      "condition": "new",
-      "price": 85225.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
       "vin": "1FTFW3L86TFB08667",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/f7fd9bd4c9ed.html",
       "condition": "new",
       "price": 84515.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
-      "vin": "1FTFW3L85TKE17747",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/50cd334c1d6b.html",
-      "condition": "new",
-      "price": 87295.0,
       "price_currency": "CAD"
     },
     {
@@ -565,14 +517,6 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/3311615c2c0b.html",
       "condition": "new",
       "price": 86725.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
-      "vin": "1FTFW5L8XTFB62243",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/65029c592600.html",
-      "condition": "new",
-      "price": 94695.0,
       "price_currency": "CAD"
     },
     {
@@ -633,14 +577,6 @@
     },
     {
       "name": "2026FordF-150",
-      "vin": "1FTFW3L81TKE91960",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/88d12f1404f7.html",
-      "condition": "new",
-      "price": 81630.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
       "vin": "1FTFW3L88TKF01576",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/5f74868fc0a4.html",
       "condition": "new",
@@ -649,26 +585,10 @@
     },
     {
       "name": "2026FordF-150",
-      "vin": "1FTFW3L85TKE93162",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/3997cb07eda9.html",
-      "condition": "new",
-      "price": 72945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
       "vin": "1FTFW1L87TKE66033",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/539757d0370e.html",
       "condition": "new",
       "price": 70930.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
-      "vin": "1FTFW7L89TFC05000",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/b70d9aa314ba.html",
-      "condition": "new",
-      "price": 111300.0,
       "price_currency": "CAD"
     },
     {
@@ -689,14 +609,6 @@
     },
     {
       "name": "2026FordF-150",
-      "vin": "1FTFW3L85TKF00451",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/1860533b4e23.html",
-      "condition": "new",
-      "price": 72945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-150",
       "vin": "1FTFW3L81TKE72017",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/aae768f348fd.html",
       "condition": "new",
@@ -709,6 +621,22 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/8152f3eec93a.html",
       "condition": "new",
       "price": 72945.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordF-150",
+      "vin": "1FTFW5L83TKE96685",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/91e0a3695392.html",
+      "condition": "new",
+      "price": 91564.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordF-150",
+      "vin": "1FTFW7L89TFA61934",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/75a44c26ace4.html",
+      "condition": "new",
+      "price": 112770.0,
       "price_currency": "CAD"
     },
     {
@@ -761,10 +689,26 @@
     },
     {
       "name": "2026FordRanger",
-      "vin": "1FTER4HH3TLE37720",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/ca7d6158d81f.html",
+      "vin": "1FTER4HH5TLE37086",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/f8447d1a0d7d.html",
       "condition": "new",
-      "price": 52849.0,
+      "price": 51700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordRanger",
+      "vin": "1FTER4HP7TLE62563",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/b1f654d96515.html",
+      "condition": "new",
+      "price": 59655.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordSUPER DUTY F-250 SRW",
+      "vin": "1FT7W2BA1TEE53601",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/a71807a90865.html",
+      "condition": "new",
+      "price": 75314.0,
       "price_currency": "CAD"
     },
     {
@@ -785,14 +729,6 @@
     },
     {
       "name": "2026FordSUPER DUTY F-350 SRW",
-      "vin": "1FT8W3BM3TEE02203",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/54c526226d01.html",
-      "condition": "new",
-      "price": 114054.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordSUPER DUTY F-350 SRW",
       "vin": "1FT8W3BT7TEE51802",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/d6efd40a2a97.html",
       "condition": "new",
@@ -801,26 +737,10 @@
     },
     {
       "name": "2026FordSUPER DUTY F-350 SRW",
-      "vin": "1FT8W3BT0TEF37906",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/0d49ba9d7678.html",
-      "condition": "new",
-      "price": 98615.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordSUPER DUTY F-350 SRW",
       "vin": "1FT8W3BT0TEE25042",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/f3605cf0a992.html",
       "condition": "new",
       "price": 117593.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordSUPER DUTY F-350 SRW",
-      "vin": "1FT8W3BT9TED99203",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/b02effbde6e0.html",
-      "condition": "new",
-      "price": 106075.0,
       "price_currency": "CAD"
     },
     {
@@ -841,34 +761,10 @@
     },
     {
       "name": "2027FordExpedition",
-      "vin": "1FMJU1RG6VEA00847",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/ce22a0a45268.html",
-      "condition": "new",
-      "price": 114445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027FordExpedition",
       "vin": "1FMJK1P88VEA00835",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/720cf3c3ce9a.html",
       "condition": "new",
       "price": 117945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027FordExplorer",
-      "vin": "1FMWK8GC9VGA33012",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/3016f697fa15.html",
-      "condition": "new",
-      "price": 75795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027FordExplorer",
-      "vin": "1FMWK8JC8VGA07073",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/a263f36de9ab.html",
-      "condition": "new",
-      "price": 75545.0,
       "price_currency": "CAD"
     },
     {
@@ -880,19 +776,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027FordExplorer",
+      "vin": "1FMUK8KHXVGA58916",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/13fe1b135714.html",
+      "condition": "new",
+      "price": 67745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordExplorer",
+      "vin": "1FMUK8DH9VGA54840",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/19e9a3d6255d.html",
+      "condition": "new",
+      "price": 56525.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordExplorer",
+      "vin": "1FMUK8KH2VGA28437",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/64adf678e722.html",
+      "condition": "new",
+      "price": 66845.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordExplorer",
+      "vin": "1FMUK8JH1VGA35140",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/cba8c2c22263.html",
+      "condition": "new",
+      "price": 66795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordF250",
+      "vin": "2FT7W2BN6VBA03928",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/4cbfd3a8ae44.html",
+      "condition": "new",
+      "price": 82680.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027FordSUPER DUTY F-350 DRW",
       "vin": "1FT8W3DM0VEC03934",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/c9d646b6792f.html",
       "condition": "new",
       "price": 100585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027FordSUPER DUTY F-350 DRW",
-      "vin": "1FT8W3DM5VEC46827",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/1b2c19206917.html",
-      "condition": "new",
-      "price": 128383.0,
       "price_currency": "CAD"
     },
     {
@@ -945,14 +873,6 @@
     },
     {
       "name": "2027FordSUPER DUTY F-350 SRW",
-      "vin": "1FT8W3BMXVEC50603",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/a44702dd125f.html",
-      "condition": "new",
-      "price": 136749.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027FordSUPER DUTY F-350 SRW",
       "vin": "1FT8W3BNXVEC27931",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/f79e46c2968e.html",
       "condition": "new",
@@ -968,6 +888,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027FordSUPER DUTY F-350 SRW",
+      "vin": "1FT8W3BNXVEC46916",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/9413e0af1796.html",
+      "condition": "new",
+      "price": 86580.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordSUPER DUTY F-350 SRW",
+      "vin": "2FT8W3BM8VBA04774",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/6002738742af.html",
+      "condition": "new",
+      "price": 136319.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027FordSUPER DUTY F-450 DRW",
       "vin": "1FT8W4DM4VEC61972",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/c71b3f985ff2.html",
@@ -977,18 +913,26 @@
     },
     {
       "name": "2027FordSUPER DUTY F-450 DRW",
-      "vin": "1FT8W4DM0VEC48667",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/c09febc6acd4.html",
-      "condition": "new",
-      "price": 124108.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027FordSUPER DUTY F-450 DRW",
       "vin": "1FT8W4DM9VEC66052",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/8214f5fd9c42.html",
       "condition": "new",
       "price": 137819.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordSUPER DUTY F-450 DRW",
+      "vin": "2FT8W4DM8VBA02638",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/2f6cbaa7bf0c.html",
+      "condition": "new",
+      "price": 140379.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027FordSUPER DUTY F-550 DRW",
+      "vin": "1FDSX5HT7VEC11203",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/6309cb46a703.html",
+      "condition": "new",
+      "price": 103745.0,
       "price_currency": "CAD"
     }
   ]
