@@ -1,26 +1,10 @@
 {
   "dealership": "Fort Motors Ltd",
-  "generated_at": "2026-10-26T08:15:42",
-  "vehicle_count": 131,
+  "generated_at": "2026-11-17T09:14:14",
+  "vehicle_count": 124,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2014FordFusion",
-      "vin": "3FA6P0T95ER222479",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/e1edc447d5b5.html",
-      "condition": "used",
-      "price": 8992.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017ChevroletSilverado 1500",
-      "vin": "1GCVKPEC5HZ405516",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/ec2edd5f04ef.html",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2017LincolnContinental",
       "vin": "1LN6L9NC8H5637236",
@@ -38,10 +22,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018FordF-150",
-      "vin": "1FTFW1E55JKD89713",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/7a5671c0a4ee.html",
-      "condition": "used"
+      "name": "2018JeepWrangler JK Unlimited",
+      "vin": "1C4BJWFG5JL872591",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/5189ce7523f8.html",
+      "condition": "used",
+      "price": 32995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019ChevroletCruze",
@@ -52,24 +38,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019FordF-150",
-      "vin": "1FTFW1E51KFD04862",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/cc928bf8459d.html",
+      "name": "2019FordSUPER DUTY F-350 SRW",
+      "vin": "1FT8W3BTXKEC37949",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/a47324487e72.html",
       "condition": "used"
-    },
-    {
-      "name": "2019FordSuper Duty",
-      "vin": "1FT7W2B65KEC72172",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/a7f0f60c507d.html",
-      "condition": "used"
-    },
-    {
-      "name": "2019RAM1500",
-      "vin": "1C6RR7FG6KS703921",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/6c2d4e574601.html",
-      "condition": "used",
-      "price": 20995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2020FordEscape",
@@ -80,20 +52,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020GMCSierra 1500",
-      "vin": "1GTU9CED0LZ146354",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/4b7b8c6d9bf6.html",
-      "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020GMCSierra 3500",
       "vin": "1GT49WEY5LF292772",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/e4f1b3f7757e.html",
       "condition": "used",
-      "price": 74993.0,
+      "price": 71995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordF-150",
+      "vin": "1FTFW1E8XMKE28195",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/7ea13cdbf4c6.html",
+      "condition": "used"
     },
     {
       "name": "2022ChevroletSilverado 3500HD",
@@ -104,27 +74,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022FordEscape",
-      "vin": "1FMCU9G67NUA49708",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/4ba89f07bba8.html",
+      "name": "2022DodgeDurango",
+      "vin": "1C4RDJDG9NC210630",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/f2cd3a250016.html",
       "condition": "used",
-      "price": 19995.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022FordF-150",
-      "vin": "1FTFW1E81NFA55154",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/e2c770180a3e.html",
+      "name": "2022FordBronco Sport",
+      "vin": "3FMCR9D90NRD86583",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/e1ef23330587.html",
       "condition": "used",
-      "price": 49995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022FordF-150",
-      "vin": "1FTFX1E81NFB25989",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/a477cb5759d9.html",
-      "condition": "used",
-      "price": 42995.0,
+      "price": 53219.0,
       "price_currency": "CAD"
     },
     {
@@ -166,14 +128,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023FordSUPER DUTY F-250 SRW",
-      "vin": "1FT8W2BN8PED84550",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/6dddf2c5ebf2.html",
-      "condition": "used",
-      "price": 69995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023JeepGrand Cherokee 4xe",
       "vin": "1C4RJYC60P8874945",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/4b241ec511e5.html",
@@ -186,15 +140,7 @@
       "vin": "3C63RRRL3PG596657",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/e75f402d1a7b.html",
       "condition": "used",
-      "price": 74994.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024ChevroletSILVERADO 2500HD",
-      "vin": "2GC4YME76R1170727",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/47cc44f67ff7.html",
-      "condition": "used",
-      "price": 57995.0,
+      "price": 72995.0,
       "price_currency": "CAD"
     },
     {
@@ -203,6 +149,14 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/133c4661c7f8.html",
       "condition": "used",
       "price": 75491.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024DodgeDurango",
+      "vin": "1C4SDJGJ7RC242474",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/417960f743c0.html",
+      "condition": "used",
+      "price": 76995.0,
       "price_currency": "CAD"
     },
     {
@@ -226,7 +180,7 @@
       "vin": "1FMJK1P86REA72266",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/b21e6345279f.html",
       "condition": "used",
-      "price": 81995.0,
+      "price": 80495.0,
       "price_currency": "CAD"
     },
     {
@@ -242,7 +196,7 @@
       "vin": "1FT8W3DM4REF14062",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/4a0f9b2d96f8.html",
       "condition": "used",
-      "price": 129995.0,
+      "price": 127995.0,
       "price_currency": "CAD"
     },
     {
@@ -259,14 +213,6 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/9a788c9ee96d.html",
       "condition": "used",
       "price": 90995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024FordSUPER DUTY F-350 SRW",
-      "vin": "1FT8W3BT0RED95453",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/11dc840c9940.html",
-      "condition": "used",
-      "price": 86995.0,
       "price_currency": "CAD"
     },
     {
@@ -326,19 +272,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025FordF-150",
-      "vin": "1FTFW5L87SKE13631",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/698a5e2cd585.html",
-      "condition": "used",
-      "price": 67993.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025MazdaCX-5",
       "vin": "JM3KFBCL7S0706269",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/e7e9d5b5419b.html",
       "condition": "used",
       "price": 32492.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordSUPER DUTY F-350 SRW",
+      "vin": "1FT8W3BM6TED11412",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/389106ca50b7.html",
+      "condition": "used",
+      "price": 109995.0,
       "price_currency": "CAD"
     },
     {
