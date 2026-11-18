@@ -1,6 +1,6 @@
 {
   "dealership": "Fort Motors Ltd",
-  "generated_at": "2026-11-18T00:31:41",
+  "generated_at": "2026-11-18T00:55:24",
   "vehicle_count": 117,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -444,7 +444,7 @@
       "vin": "1FTFW3L82TFB08097",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/b6dbf4352fcd.html",
       "condition": "new",
-      "price": 85320.0,
+      "price": 84570.0,
       "price_currency": "CAD"
     },
     {
@@ -452,7 +452,7 @@
       "vin": "1FTFW3L81TKE12450",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/776633120895.html",
       "condition": "new",
-      "price": 87450.0,
+      "price": 86700.0,
       "price_currency": "CAD"
     },
     {
@@ -460,7 +460,7 @@
       "vin": "1FTFW3L89TKE08422",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/4cd998cb8429.html",
       "condition": "new",
-      "price": 87735.0,
+      "price": 86985.0,
       "price_currency": "CAD"
     },
     {
@@ -476,7 +476,7 @@
       "vin": "1FTFW3L86TFB08667",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/f7fd9bd4c9ed.html",
       "condition": "new",
-      "price": 84515.0,
+      "price": 83765.0,
       "price_currency": "CAD"
     },
     {
@@ -484,7 +484,7 @@
       "vin": "1FTFW3L84TKE08506",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/eb7c26a1363d.html",
       "condition": "new",
-      "price": 87060.0,
+      "price": 86310.0,
       "price_currency": "CAD"
     },
     {
@@ -492,7 +492,7 @@
       "vin": "1FTEW3LP5TKE47950",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/00630978cca9.html",
       "condition": "new",
-      "price": 80730.0,
+      "price": 79980.0,
       "price_currency": "CAD"
     },
     {
