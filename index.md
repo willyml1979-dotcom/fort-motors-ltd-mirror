@@ -1,6 +1,6 @@
 # Fort Motors Ltd.
 
- dealership in Fort St. John. AI-readable inventory mirror, about 117 vehicles.
+ dealership in Fort St. John. AI-readable inventory mirror, about 116 vehicles.
 
 - Official website: https://www.fortmotors.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/

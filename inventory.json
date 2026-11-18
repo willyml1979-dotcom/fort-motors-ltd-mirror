@@ -1,7 +1,7 @@
 {
   "dealership": "Fort Motors Ltd",
-  "generated_at": "2026-11-18T00:55:24",
-  "vehicle_count": 117,
+  "generated_at": "2026-11-18T09:45:43",
+  "vehicle_count": 116,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -96,12 +96,6 @@
       "condition": "used",
       "price": 48995.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2022LincolnNavigator",
-      "vin": "5LMJJ2LTXNEL05429",
-      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/7ea7180a7f8b.html",
-      "condition": "used"
     },
     {
       "name": "2022RAM1500",
@@ -220,7 +214,7 @@
       "vin": "1GTUUHE8XRZ100411",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/b16e9c7d7fb7.html",
       "condition": "used",
-      "price": 70995.0,
+      "price": 67995.0,
       "price_currency": "CAD"
     },
     {
@@ -244,7 +238,7 @@
       "vin": "2GCUKDED4S1187300",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/d6ba863c4dec.html",
       "condition": "used",
-      "price": 52991.0,
+      "price": 49495.0,
       "price_currency": "CAD"
     },
     {
@@ -268,7 +262,7 @@
       "vin": "1FTFW5L5XSKE21499",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/ee03703dd886.html",
       "condition": "used",
-      "price": 67993.0,
+      "price": 65995.0,
       "price_currency": "CAD"
     },
     {
@@ -292,7 +286,7 @@
       "vin": "1GTP2EEK2T1167216",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/4b1975df0456.html",
       "condition": "used",
-      "price": 67995.0,
+      "price": 66495.0,
       "price_currency": "CAD"
     },
     {

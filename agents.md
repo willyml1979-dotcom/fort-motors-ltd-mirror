@@ -7,7 +7,7 @@ Fort Motors Ltd. is a  dealership in Fort St. John. This site is an AI-readable 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/ and https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/ (about 117 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/used/ and https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/ (about 116 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/llms.txt
