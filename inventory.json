@@ -1,7 +1,7 @@
 {
   "dealership": "Fort Motors Ltd",
-  "generated_at": "2026-11-18T09:45:43",
-  "vehicle_count": 116,
+  "generated_at": "2026-11-18T10:02:12",
+  "vehicle_count": 118,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -634,6 +634,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026FordF-150",
+      "vin": "1FTFW5L87TFB54584",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/72a7c7f39a2e.html",
+      "condition": "new",
+      "price": 95320.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026FordF-550",
       "vin": "1FD0W5HT6TEE90098",
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/a44dd1775321.html",
@@ -751,6 +759,14 @@
       "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/661211b00419.html",
       "condition": "new",
       "price": 121749.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordTransit Passenger Wagon",
+      "vin": "1FBAX9CG4TKB16120",
+      "url": "https://willyml1979-dotcom.github.io/fort-motors-ltd-mirror/new/49f6e46b226d.html",
+      "condition": "new",
+      "price": 96360.0,
       "price_currency": "CAD"
     },
     {
